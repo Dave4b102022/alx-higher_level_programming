@@ -1,1 +1,1 @@
-This is Javascript warm up dir
+javascript-web_jquery
